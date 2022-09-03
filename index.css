@@ -37,9 +37,16 @@
 .skill {
     box-shadow: 8px 2px 8px 2px rgb(65, 65, 65);
     transition: 0.2s;
-    width: 8%;
+    width: 30%;
+    margin-left: 35%;
 }
 
 .skill:hover {
     box-shadow: 16px 4px 16px 4px rgb(195, 172, 131);
+    margin-top: 5%;
+}
+
+.skill_container {
+    padding: 2px 16px;
+    color: rgb(147, 209, 205);
 }
