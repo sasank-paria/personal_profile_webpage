@@ -1,3 +1,45 @@
 .navbar {
     background-color: white;
 }
+
+.card {
+    box-shadow: 0 16px 16px 0 rgb(147, 209, 205);
+    transition: 0.2s;
+    width: 60%;
+}
+
+.card:hover {
+    box-shadow: 0 32px 64px 0 rgb(147, 209, 205);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.education {
+    box-shadow: 16px 0 16px 0 rgb(195, 172, 131);
+    transition: 0.2s;
+}
+
+.education:hover {
+    box-shadow: 32px 0 32px 0 rgb(195, 172, 131);
+}
+
+.contact {
+    box-shadow: 32px 0 32px 0 rgb(147, 209, 205);
+    transition: 0.2s;
+}
+
+.contact:hover {
+    box-shadow: 64px 0 64px 0 rgb(147, 209, 205);
+}
+
+.skill {
+    box-shadow: 8px 2px 8px 2px rgb(65, 65, 65);
+    transition: 0.2s;
+    width: 8%;
+}
+
+.skill:hover {
+    box-shadow: 16px 4px 16px 4px rgb(195, 172, 131);
+}
