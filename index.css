@@ -25,12 +25,12 @@
     box-shadow: 32px 0 32px 0 rgb(195, 172, 131);
 }
 
-.contact {
+#contact {
     box-shadow: 32px 0 32px 0 rgb(147, 209, 205);
     transition: 0.2s;
 }
 
-.contact:hover {
+#contact:hover {
     box-shadow: 64px 0 64px 0 rgb(147, 209, 205);
 }
 
